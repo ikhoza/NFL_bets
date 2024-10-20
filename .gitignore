@@ -163,3 +163,4 @@ cython_debug/
 
 Data/Files/
 Data/temp/
+data_setup.ipynb
